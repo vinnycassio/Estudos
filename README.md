@@ -1,2 +1,2 @@
 # Estudos
-Meus primeiros códigos
+Lista de desafios
